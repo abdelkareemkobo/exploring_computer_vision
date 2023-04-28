@@ -14,7 +14,7 @@ I will be using Python, C++, and Rust for my computer vision projects.
 
 My farm of vision models includes:
 
-- Detectron2
+- [Detectron2](https://github.com/abdelkareemkobo/detectron_hacking)
 - YOLOv8
 - DINOv2
 - And more!
